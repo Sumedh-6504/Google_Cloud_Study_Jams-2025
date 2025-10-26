@@ -25,3 +25,6 @@ Repository-based progress visualizer (planned)
 
 🧭 Vision
 Empower every learner to move from Check My Progress ✅ to Check My Purpose 🚀.
+
+You can find more details on the Study Jams in the below website👇
+Link: https://cloudonair.withgoogle.com/cloud-study-jam
